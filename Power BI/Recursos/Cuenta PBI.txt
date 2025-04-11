@@ -1,0 +1,10 @@
+Paso a paso para crear cuenta de Microsoft 365:
+
+https://learn.microsoft.com/es-es/power-bi/enterprise/service-admin-signing-up-for-power-bi-with-a-new-office-365-trial
+
+Registrar cuenta empresarial o Microsoft 365 para acceder a una prueba de Power BI:
+
+https://app.powerbi.com/singleSignOn?pbi_source=websignup&cmpid=pbi-glob-head-try-free&ru=https:%2f%2fapp.powerbi.com%2f%3fpbi_source%3dwebsignup%26cmpid%3dpbi-glob-head-try-free%26noSignUpCheck%3d1
+
+Video tutorial para crear cuenta de PBI:
+https://www.youtube.com/watch?v=seaLK0mLgPg
