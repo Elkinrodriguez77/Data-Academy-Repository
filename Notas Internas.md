@@ -10,3 +10,20 @@ Por ejemplo, los archivos de desarrollo de la clase que yo hago para preparar el
 4. Validar que no haya nada instalado de librerias: pip list
 5. Instalar librerias, en este caso lo primero que voy a instalar por EDA es pandas: pip install pandas
 6. Crear archivo de librerias a instalar: pip freeze > requirements.txt
+
+
+
+# Notas:
+
+1. Nunca es recomendable cargar el entorno virtual a git hub por su beso.
+
+
+# Datos API: 
+
+Librería Python: owid-catalog
+Para facilitar el acceso a sus datos, OWID ha desarrollado la librería owid-catalog en Python. Esta herramienta permite buscar y cargar datos directamente en forma de DataFrames de pandas, lo que es perfecto para análisis en notebooks. Puedes instalarla usando pip:
+
+bash
+Copiar
+Editar
+pip install owid-catalog
