@@ -27,3 +27,10 @@ bash
 Copiar
 Editar
 pip install owid-catalog
+
+# Fuentes de datos para Our World in Data y noticias:
+
+1. https://ourworldindata.org/data-insights
+2. https://techcrunch.com/
+
+
