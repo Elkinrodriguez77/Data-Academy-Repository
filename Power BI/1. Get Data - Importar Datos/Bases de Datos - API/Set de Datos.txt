@@ -1,0 +1,15 @@
+Set de Datos:
+
+https://www.datos.gov.co/Educaci-n/MEN_PROGRAMAS_DE_EDUCACI-N_SUPERIOR/upr9-nkiz/about_data
+
+Conexión a Bases de Datos:
+
+https://www.youtube.com/watch?v=lVMtbnh5mYg
+
+Instalar Python:
+
+https://www.youtube.com/watch?v=xd_0RN2SyfI
+
+Instalar librerías de Python:
+
+https://www.youtube.com/watch?v=ZlMNodo0OMw
