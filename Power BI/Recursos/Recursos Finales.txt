@@ -1,0 +1,7 @@
+1. Finalizar caso de Electronic Sales:
+	- Crear medidas de jerarquía
+2. Aprender a publicar informe en la web
+3. Programar actualizaciones automáticas del reporte en la web.
+4. Visual Vocabulary - Clase teórica con Power BI Real:
+	https://1drv.ms/u/c/7922b0b09328d329/EU103_XE4U5Nr22VlliBjWEBoSsyBXvLW3CONO8_L-fxQw?e=aO4EnB
+5. Publicar informes en la web: Google Sites por ejemplo
